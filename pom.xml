@@ -34,9 +34,9 @@
     <url>http://wso2.org</url>
 
     <scm>
-        <url>https://github.com/ballerinalang/testerina.git</url>
-        <developerConnection>scm:git:https://github.com/ballerinalang/testerina.git</developerConnection>
-        <connection>scm:git:https://github.com/ballerinalang/testerina.git</connection>
+        <url>https://github.com/manuri/testerina-temp.git</url>
+        <developerConnection>scm:git:https://github.com/manuri/testerina-temp.git</developerConnection>
+        <connection>scm:git:https://github.com/manuri/testerina-temp.git</connection>
         <tag>HEAD</tag>
     </scm>
 
@@ -115,6 +115,8 @@
         <generated.testerina.source.directory>${project.build.directory}/natives/</generated.testerina.source.directory>
 
         <antlr4.runtime.version>4.5.1.wso2v1</antlr4.runtime.version>
+
+        <project.scm.id>my-scm-server</project.scm.id>
     </properties>
 
     <modules>
