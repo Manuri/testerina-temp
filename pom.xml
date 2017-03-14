@@ -99,7 +99,7 @@
 
     <properties>
 
-        <ballerina.version>0.8.11</ballerina.version>
+        <ballerina.version>0.8.12</ballerina.version>
         <docerina.maven.plugin.version>0.8.1</docerina.maven.plugin.version>
 
         <com.beust.jcommander.version>1.60</com.beust.jcommander.version>
